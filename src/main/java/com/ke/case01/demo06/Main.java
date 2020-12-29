@@ -6,10 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Description:
- * User: zxg QAQ
- * Date: 2020-12-06
- * Time: 22:45
+ * @author zxg_QAQ
  */
 public class Main {
 

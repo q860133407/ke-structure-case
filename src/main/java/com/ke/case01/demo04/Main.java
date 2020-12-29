@@ -7,10 +7,7 @@ import java.util.List;
 import java.util.Stack;
 
 /**
- * Description:
- * User: zxg QAQ
- * Date: 2020-12-01
- * Time: 0:01
+ * @author zxg_QAQ
  */
 public class Main {
 

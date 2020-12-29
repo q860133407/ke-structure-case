@@ -1,10 +1,7 @@
 package com.ke.case01.demo02;
 
 /**
- * Description:
- * User: zxg QAQ
- * Date: 2020-12-01
- * Time: 0:02
+ * @author zxg_QAQ
  */
 public class TreeNode {
 
